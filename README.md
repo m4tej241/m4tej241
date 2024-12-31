@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Matej. Welcome to my GitHub profile!
+I am a computer science student at Masaryk University in Brno.
+
+In my free time, I like hiking, and almost every sports activity there is connected with being in nature. From cycling to running, you name it
 
 <!--
 **m4tej241/m4tej241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
